@@ -1,0 +1,17 @@
+# MATLAB files generated during execution
+*.asv
+*.fig
+*.mat
+
+# MATLAB/Octave temporary files
+~$*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MATLAB autosave / backup files
+*.autosave
+
+# Generated output
+results/generated/
